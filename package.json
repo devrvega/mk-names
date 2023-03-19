@@ -1,0 +1,19 @@
+{
+  "name": "mk-names",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Mortal Kombat random name generator",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberto Vega",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "eslint-plugin-react": "^7.32.2"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
